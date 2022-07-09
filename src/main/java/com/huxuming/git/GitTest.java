@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello github");
         System.out.println("hello huxuming");
         System.out.println("hello UU减速器");
+        System.out.println("hello gitee");
     }
 }
